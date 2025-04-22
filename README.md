@@ -1,1 +1,6 @@
-# Analyzing-Revenue-Data-and-building-a-dashboard
+# Analyzing-Revenue-Data-and-building-a-dashboard![1000030190](https://github.com/user-attachments/assets/6f639938-f9a4-45e7-a416-8c929f4b1149)
+![1000030189](https://github.com/user-attachments/assets/809585a4-3296-44fe-b125-d7d8d1cdbf90)
+![1000030184](https://github.com/user-attachments/assets/40116512-1eb2-4ff1-b0a8-492c04551b91)
+![1000030181](https://github.com/user-attachments/assets/088dfd50-3340-40fb-8419-5d7f29a1252b)
+![1000030178](https://github.com/user-attachments/assets/50601518-7af3-41d5-aef4-de0719d3500b)
+![1000030177](https://github.com/user-attachments/assets/eb97487f-0f21-4bc2-92ce-d334746ac1f4)
